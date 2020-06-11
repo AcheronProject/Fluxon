@@ -8,7 +8,7 @@ See [this page](https://gondolindrim.github.io/AcheronDocs/fluxon/intro.html) fo
 
 The Fluxon is a replacement PCB for the Vortex Core keyboard. It supports the default layouts of the Vortex Core, with a 1.75-2.75 split spacebar. The PCB also supports two extra bottom row layouts: one with a 6.25 spacebar one and other with a 7 unit spacebar. See the picture below for details. 
 
-The PCB is powered by a STM32F072CxTx and is QMK compatible.
+The PCB is powered by a STM32L072CxTx and is QMK compatible.
 
 The indicator LEDs of the stock PCB were substituted by SK6812 (WS2812-compatible controller-integrated seriallized RGB LEDs) which can be configured as per the QMK capabilities.
 
@@ -16,7 +16,13 @@ The indicator LEDs of the stock PCB were substituted by SK6812 (WS2812-compatibl
 
 Click [this link](http://www.keyboard-layout-editor.com/#/gists/73be427d3e8086a9253feece2dae6974) for the KLE file for the Fluxon.
 
-![Fluxon layouts](https://github.com/AcheronProject/Fluxon//raw/master/graphics/fluxon_layouts.png)
+![Fluxon layouts](https://github.com/AcheronProject/Fluxon/raw/master/graphics/fluxon_layouts.png)
+
+## Renders
+
+![Fluxon bottom render](https://github.com/AcheronProject/Fluxon/raw/master/graphics/bottom_render.svg)
+![Fluxon top render](https://github.com/AcheronProject/Fluxon/raw/master/graphics/top_render)
+
 
 ## Logo
 
