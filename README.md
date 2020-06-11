@@ -21,7 +21,7 @@ Click [this link](http://www.keyboard-layout-editor.com/#/gists/73be427d3e8086a9
 ## Renders
 
 ![Fluxon bottom render](https://github.com/AcheronProject/Fluxon/raw/master/graphics/bottom_render.svg)
-![Fluxon top render](https://github.com/AcheronProject/Fluxon/raw/master/graphics/top_render)
+![Fluxon top render](https://github.com/AcheronProject/Fluxon/raw/master/graphics/top_render.svg)
 
 
 ## Logo
