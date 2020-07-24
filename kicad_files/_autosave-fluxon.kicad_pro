@@ -1,0 +1,138 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.05,
+        "copper_line_width": 0.2,
+        "copper_text_italic": false,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3,
+        "copper_text_upright": false,
+        "courtyard_line_width": 0.05,
+        "dimension_precision": 1,
+        "dimension_units": 0,
+        "fab_line_width": 0.09999999999999999,
+        "fab_text_italic": false,
+        "fab_text_size_h": 1.0,
+        "fab_text_size_v": 1.0,
+        "fab_text_thickness": 0.15,
+        "fab_text_upright": false,
+        "other_line_width": 0.09999999999999999,
+        "other_text_italic": false,
+        "other_text_size_h": 1.0,
+        "other_text_size_v": 1.0,
+        "other_text_thickness": 0.15,
+        "other_text_upright": false,
+        "silk_line_width": 0.12,
+        "silk_text_italic": false,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.15,
+        "silk_text_upright": false
+      },
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.254,
+          "via_gap": 0.25,
+          "width": 0.2032
+        }
+      ],
+      "drc_exclusions": [],
+      "rules": {
+        "allow_blind_buried_vias": false,
+        "allow_microvias": false,
+        "min_clearance": 0.0,
+        "min_copper_edge_clearance": 0.01016,
+        "min_hole_to_hole": 0.254,
+        "min_microvia_diameter": 0.2032,
+        "min_microvia_drill": 0.1016,
+        "min_through_hole_diameter": 0.3048,
+        "min_track_width": 0.1524,
+        "min_via_annulus": 0.0508,
+        "min_via_diameter": 0.508,
+        "solder_mask_clearance": 0.0508,
+        "solder_mask_min_width": 0.254,
+        "solder_paste_clearance": 0.0,
+        "solder_paste_margin_ratio": 0.0
+      },
+      "track_widths": [
+        0.1524,
+        0.1524,
+        0.254,
+        0.381,
+        0.508,
+        0.762,
+        1.016
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.508,
+          "drill": 0.3048
+        },
+        {
+          "diameter": 0.508,
+          "drill": 0.3048
+        },
+        {
+          "diameter": 0.635,
+          "drill": 0.3048
+        },
+        {
+          "diameter": 0.8128,
+          "drill": 0.4064
+        }
+      ]
+    },
+    "layer_presets": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "_autosave-fluxon.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4
+      }
+    ],
+    "meta": {
+      "version": 0
+    },
+    "net_colors": null
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "specctra_dsn": "",
+      "step": "",
+      "vmrl": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  },
+  "sheets": [],
+  "text_variables": {}
+}

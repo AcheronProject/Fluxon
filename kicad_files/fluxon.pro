@@ -1,4 +1,4 @@
-update=Thu 11 Jun 2020 07:27:41 PM -03
+update=Sat 13 Jun 2020 03:57:32 PM -03
 version=1
 last_client=kicad
 [general]
@@ -12,14 +12,14 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[LibeditFrame]
-version=1
 [SchematicFrame]
 version=1
 [ModEditFrame]
 version=1
 [sheetnames]
 1=fe4d8e9b-6793-4310-897d-a1cb200297fa:
+[LibeditFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
