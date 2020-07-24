@@ -1,4 +1,4 @@
-65260878962893
+68452100127893
 acheron_Components
 ACM2012-2P
 
@@ -6,6 +6,13 @@ ACM2012-2P
 0
 4
 4
+acheron_Components
+CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
+Tantalum{space}Capacitor{space}SMD{space}Kemet-I{space}(3216-10{space}Metric),{space}IPC_7351{space}nominal,{space}(Body{space}size{space}from:{space}http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf),{space}generated{space}with{space}kicad-footprint-generator
+capacitor{space}tantalum
+0
+2
+2
 acheron_Components
 C_0805_2012Metric
 Capacitor{space}SMD{space}0805{space}(2012{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing),{space}generated{space}with{space}kicad-footprint-generator
@@ -258,6 +265,13 @@ SOT-23-6
 0
 6
 6
+acheron_Components
+SOT-143
+SOT-143
+SOT-143
+0
+4
+4
 acheron_Components
 SOT-363_SC-70-6
 SOT-363,{space}SC-70-6
