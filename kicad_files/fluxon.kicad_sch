@@ -1691,8 +1691,8 @@
   (junction (at 518.16 250.825) (diameter 0) (color 0 0 0 0))
   (junction (at 518.16 257.175) (diameter 0) (color 0 0 0 0))
 
-  (no_connect (at 64.77 347.345))
   (no_connect (at 508.635 314.325))
+  (no_connect (at 64.77 347.345))
   (no_connect (at 123.19 267.335))
 
   (wire (pts (xy 41.275 265.43) (xy 45.085 265.43))
@@ -3425,7 +3425,7 @@
   (symbol (lib_id "power:GND") (at 109.22 268.605 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "c38fbb2a-c35b-4672-8fd1-d78ffb85c184")
-    (property "Reference" "#PWR?" (id 0) (at 109.22 274.955 0)
+    (property "Reference" "#PWR0103" (id 0) (at 109.22 274.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 109.22 271.78 0)
@@ -4231,6 +4231,23 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 116.84 397.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 116.84 405.765 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid "6fded8dc-11a0-4d36-90ab-0545a8b854de")
+    (property "Reference" "GR7" (id 0) (at 119.38 404.5966 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Warning Sign" (id 1) (at 119.38 406.908 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "acheron_Graphics:warning_sign_3.6x3.2mm" (id 2) (at 116.84 405.765 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 116.84 405.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -6956,7 +6973,7 @@
       (reference "#PWR0102") (unit 1)
     )
     (path "/c38fbb2a-c35b-4672-8fd1-d78ffb85c184"
-      (reference "#PWR?") (unit 1)
+      (reference "#PWR0103") (unit 1)
     )
     (path "/d5072c79-7bfb-447b-9669-32e9fefbcb51"
       (reference "C1") (unit 1)
@@ -7188,6 +7205,9 @@
     )
     (path "/1c2ff3c9-d6c7-4ee0-9926-d79c80cd3e1d"
       (reference "GR6") (unit 1)
+    )
+    (path "/6fded8dc-11a0-4d36-90ab-0545a8b854de"
+      (reference "GR7") (unit 1)
     )
     (path "/3bf1228b-aee4-4155-9b64-00626b023658"
       (reference "J1") (unit 1)
